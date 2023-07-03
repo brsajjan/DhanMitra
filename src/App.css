@@ -1,0 +1,19 @@
+.active{
+    color: white;
+    background-color: #3b82f6;
+    padding: 3px 8px 3px;
+    border-radius: 5px;
+}
+.FontStyle{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.LogoFontStyle{
+    font-family: 'Tilt Prism', cursive;
+}
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.SearchBorder:focus{
+    outline-style: none;
+    box-shadow: none;
+}
